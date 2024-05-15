@@ -1,0 +1,16 @@
+[
+    {
+      "title": "LinkTree Clone",
+      "imageSrc": "projects/linktree.jpg",
+      "description": "This features a user account system and authentication to showcase different social links.",
+      "skills": ["React", "NextJS", "TailwindCSS", "Supabase"],
+      "source": "https://github.com/celegarl/link-tree-clone"
+    },
+    {
+      "title": "Tic-Tac-Toe Application",
+      "imageSrc": "projects/ttt.jpg",
+      "description": "This is a simple Tic-Tac-Toe Game.",
+      "skills": ["ReactJS", "CSS", "HTML"],
+      "source": "https://github.com/celegarl/cpsc-assignment-2"
+    }
+  ]
